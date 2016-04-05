@@ -1,0 +1,16 @@
+.body{
+	background-color: #F2EFE4;
+}
+
+p{
+	font-family: 'Lato', sans-serif;}
+
+img{
+	height: 190px;
+	width: 175px;
+	display: inline-block;
+}
+
+.nav{
+	display: right;
+}
